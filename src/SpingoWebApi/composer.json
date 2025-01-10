@@ -1,5 +1,5 @@
 {
-    "name": "spingo/spingo-web-api",
+    "name": "spingo/spingo-web-api-fix",
     "description": "N/A",
     "type": "magento2-module",
     "require": {
