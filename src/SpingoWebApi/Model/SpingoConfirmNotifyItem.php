@@ -11,21 +11,21 @@ class SpingoConfirmNotifyItem extends DataObject implements SpingoConfirmNotifyI
 {
     public function getSymbol(): string
     {
-        return $this->getData('symbol');
+        return $this->getData('Symbol');
     }
 
     public function setSymbol(string $symbol): void
     {
-        $this->setData('symbol', $symbol);
+        $this->setData('Symbol', $symbol);
     }
     
     public function getValue(): string
     {
-        return $this->getData('value');
+        return $this->getData('Value');
     }
     
     public function setValue(string $value): void
     {
-        $this->setData('value', $value);
+        $this->setData('Value', $value);
     }
 }
