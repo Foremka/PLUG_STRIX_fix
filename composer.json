@@ -1,5 +1,5 @@
 {
-  "name": "spingo/magento2-payment-method",
+  "name": "spingo/magento2-payment-method-fix",
   "require": {
     "php": "~7.1||~7.3||~8.1",
     "magento/framework": "*",
