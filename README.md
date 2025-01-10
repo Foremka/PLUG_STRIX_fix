@@ -1,5 +1,5 @@
 # Moduł Spingo - odrocz płatność dla Magento 2 w wersji 2.3.x, 2.4.x
-
+#FIX
 ## Spis treści
 
 1. [Opis](#opis)
